@@ -3,7 +3,7 @@
 <img src="Database Team-Hans.jpg" width="360">
 </p>
 <center>
-<p align="center">
+<p align="left">
 <img src="Wimo.png" width="360">
 </p>
 <center>  
