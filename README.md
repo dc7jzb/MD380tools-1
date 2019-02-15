@@ -2,10 +2,6 @@
 <p align="center">
 <img src="Database Team-Hans.jpg" width="360">
 </p>
-<center>
-<p align="left">
-<img src="Wimo.png" width="360">
-</p>
 <center>  
 <a href="#dutch">Dutch</a> - 
 <a href="#english">English</a> - 
