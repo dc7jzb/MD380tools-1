@@ -1,7 +1,7 @@
 # Latest UserDB for MD380,MD390,HD1,Anytone & MD-2017.
 <p align="left">
 <img src="Database Team-Hans.jpg" width="360">
-<p align="right">
+<p align="left">
 <img src="WiMo met tekst Juiste Kleur crop.jpg" width="360">
 </p>
 <center>  
