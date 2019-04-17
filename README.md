@@ -2,7 +2,7 @@
 <p align="left">
 <img src="Database Team-Hans.jpg" width="360">
 <p align="right">
-<img src="wimo-logo-blau.jpg" width="360">
+<img src="WiMo met tekst Juiste Kleur crop.jpg" width="360">
 </p>
 <center>  
 <a href="#dutch">Dutch</a> - 
