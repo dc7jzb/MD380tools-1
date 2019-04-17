@@ -1,5 +1,8 @@
 # Latest UserDB for MD380,MD390,HD1,Anytone & MD-2017.
-<p align="center">
+<p align="left">
+<img src="wimo-logo-blau.jpg" width="360">
+</p>
+<p align="right">
 <img src="wimo-logo-blau.jpg" width="360">
 </p>
 <center>  
